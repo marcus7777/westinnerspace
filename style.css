@@ -1,0 +1,30 @@
+/** Updates - 2020 **/
+.text-with-icon .icon, .text-with-icon .fa, .text-with-icon .fab { margin-right: 5px; }
+.pswp { z-index: 999999; }
+.comment-form-cookies-consent { display: block; clear: both; }
+.page-template-default p > .alignright.size-full { clear: both; }
+small { font-size: smaller; }
+.page-links { display: block; clear: both; }
+/** New Update - 2021 **/
+.simple-title {display:none}
+body input[type="submit"],body input[type="reset"],body input[type="button"],body .botton {
+  background-color:#7F9A9B
+}
+body input[type="submit"]:hover,body input[type="reset"]:hover,body input[type="button"]:hover,body .botton:hover {
+  background-color:#D4A6B0
+}
+#footer .widget ul li{list-style:none;border: none}
+#footer .widgettitle:before {border-style:none}
+#footer .widget ul li:before, .breadcrumb {display:none}
+body ul.dt-sc-fancy-list li span {color:#7F9A9B}
+.vc_btn3.vc_btn3-color-juicy-pink, .vc_btn3.vc_btn3-color-juicy-pink.vc_btn3-style-flat {color: #fff;background-color: #7f9a9b}
+body .vc_btn3.vc_btn3-color-juicy-pink.vc_btn3-style-flat:focus,
+body .vc_btn3.vc_btn3-color-juicy-pink.vc_btn3-style-flat:hover,
+body .vc_btn3.vc_btn3-color-juicy-pink:focus,
+body .vc_btn3.vc_btn3-color-juicy-pink:hover {background-color:#D4A6B0}
+body .blog-entry.entry-date-left:hover .entry-details {background-color:#7F9A9B}
+body .dt-sc-team.type2:hover .dt-sc-team-meta {background-color:#7F9A9B}
+body .dt-sc-team:hover {background-color:#7F9A9B}
+body .vc_general.vc_btn3.vc_btn3-color-skincolor {background-color:#7F9A9B;border-color:#7F9A9B}
+body .wptb-table-container table td p:first-child {}
+body #main .main-title-section-wrapper.breadcrumb-right {display:none}
